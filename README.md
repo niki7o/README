@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola Kolev</h1>
+<h1 align="center">Hi, I'm Nikola Kolev</h1>
 - 🔭 I’m currently working on https://github.com/niki7o/Angular
 
 - 🌱 I’m currently learning **Angular, Clouds, Phyton**
